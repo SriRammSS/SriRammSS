@@ -1,7 +1,5 @@
 👋 Hi, I’m Sri Ramm S S
-👀 I’m interested in Data Analytics and Data Science
-🌱 I’m currently learning SQL, Python, Math
-💞️ I’m looking to collaborate on Data Analysis projects
+
 
 
 <!---
