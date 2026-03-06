@@ -32,7 +32,6 @@ When I'm not in the ML weeds, I published an IEEE paper on transfer learning for
 ```
 🔬  MS Applied Machine Learning @ UMD College Park  (Sep 2025 – Present)
 🏥  MedViz AI — local medical image analysis with MedGemma 27B + MedSAM
-📡  5G QoS prediction using XGBoost on live O-RAN drive test data (R² = 0.936)
 ```
 
 ---
