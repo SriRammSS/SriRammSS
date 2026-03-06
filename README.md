@@ -1,6 +1,6 @@
 # Sri Ramm Sekar Sasirekha
 
-**NLP / LLM Engineer | Multimodal AI | RAG | Prompting | FastAPI**
+**ML/ DL/ NLP / LLM Engineer | Multimodal AI | RAG | Prompting | FastAPI**
 
 📍 College Park, MD • 📧 srirammss13@gmail.com • 🔗 LinkedIn: https://www.linkedin.com/in/sri-ramm-sekar-sasirekha-1b52aa1a2/
 
