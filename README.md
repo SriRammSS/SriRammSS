@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Sri Ramm 👋
+# Hey, I'm Sri Ramm 
 
 ### ML Engineer · LLM Systems · Multimodal AI
 
@@ -30,8 +30,8 @@ When I'm not in the ML weeds, I published an IEEE paper on transfer learning for
 ## What I'm working on
 
 ```
-🔬  MS Applied Machine Learning @ UMD College Park  (Sep 2025 – Present)
-🏥  MedViz AI — local medical image analysis with MedGemma 27B + MedSAM
+ MS Applied Machine Learning @ UMD College Park (Sep 2025 – Present)
+ MedViz AI — local medical image analysis with MedGemma 27B + MedSAM
 ```
 
 ---
@@ -74,7 +74,7 @@ FastAPI · Celery · Redis · PostgreSQL + pgvector · SQLAlchemy · Alembic
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 MedViz AI Platform
+### MedViz AI Platform
 *FastAPI · MedGemma 27B · MedSAM · Ollama*
 
 Local multimodal medical AI — upload an X-ray, CT, or MRI and get NER-extracted findings, clinical summaries, and pixel-level anatomical segmentation. No cloud, no data leaving your machine. Built a causal inference engine on top of MedGemma to trace abnormal lab findings to root causes.
@@ -82,7 +82,7 @@ Local multimodal medical AI — upload an X-ray, CT, or MRI and get NER-extracte
 </td>
 <td width="50%" valign="top">
 
-### 🔍 Local RAG System
+### Local RAG System
 *FastAPI · pgvector · Ollama · React*
 
 Privacy-first document Q&A — upload PDFs, embed with `nomic-embed-text`, query with `llama3.1:8b` or `llama3.3:70b`. Clean layered architecture with abstract LLM/embedding interfaces so you can swap inference backends without touching the RAG pipeline.
@@ -94,7 +94,7 @@ Privacy-first document Q&A — upload PDFs, embed with `nomic-embed-text`, query
 <tr>
 <td width="50%" valign="top">
 
-### 📡 5G QoS Prediction
+### 5G QoS Prediction
 *XGBoost · LightGBM · Random Forest · PCA*
 
 End-to-end ML pipeline on real O-RAN drive test data. Ensemble model (XGB + LGB + RF) achieves **R² = 0.96** predicting downlink throughput from radio signal metrics. Designed a 3GPP-compliant signal imputation algorithm to reconstruct 40% missing SCell measurements.
@@ -104,7 +104,7 @@ End-to-end ML pipeline on real O-RAN drive test data. Ensemble model (XGB + LGB 
 </td>
 <td width="50%" valign="top">
 
-### 🪖 Komrade — Veteran Peer Support
+### Komrade — Veteran Peer Support
 *FastAPI · React · PostgreSQL · MongoDB · WebSockets*
 
 Real-time SOS alert platform for veterans — geospatial buddy matching (haversine), dual AI provider (Gemini/Ollama), ElevenLabs STT, and hard-wired crisis interception routing to 988 Lifeline before any AI call is made.
@@ -142,13 +142,13 @@ Proposed **modality-bridge transfer learning** — training VGG19 on kidney CT s
 ## Background
 
 ```
-2025 – Now   MS Applied Machine Learning · University of Maryland, College Park
-2024 – 2025  Member of Technical Staff-I · Mavenir Systems (5G O-RAN, ML on telco data)
-2023 – 2024  Graduate Engineer · Mavenir Systems (5G SA system testing, Dish Wireless)
+2025 – Now MS Applied Machine Learning · University of Maryland, College Park
+2024 – 2025 Member of Technical Staff-I · Mavenir Systems (5G O-RAN, ML on telco data)
+2023 – 2024 Graduate Engineer · Mavenir Systems (5G SA system testing, Dish Wireless)
 Jan–Jun 2023 Graduate Engineer Intern · Mavenir Systems
-2023         IEEE Publication · Cross-Organ Bridge Transfer Learning
-2023         Hackathon Winner — Best Startup Idea (CV-based postpartum recovery app)
-2019 – 2023  B.Tech ECE · Amrita School of Engineering, Coimbatore
+2023 IEEE Publication · Cross-Organ Bridge Transfer Learning
+2023 Hackathon Winner — Best Startup Idea (CV-based postpartum recovery app)
+2019 – 2023 B.Tech ECE · Amrita School of Engineering, Coimbatore
 ```
 
 ---
