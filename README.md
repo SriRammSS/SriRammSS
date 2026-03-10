@@ -4,7 +4,7 @@
 
 ### ML Engineer · LLM Systems · Multimodal AI
 
-*From debugging 5G radio stacks at Mavenir to building medical LLM pipelines at UMD —*
+*From debugging 5G radio stacks at Mavenir to building production ML pipelines at UMD —*
 *I'm drawn to problems where models meet the real world.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sri_Ramm_Sekar_Sasirekha-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-ramm-sekar-sasirekha-1b52aa1a2/)
@@ -23,15 +23,15 @@ I spent two years at **Mavenir Systems** as a 5G systems engineer, doing drive t
 
 My sweet spot is the intersection of **LLMs, multimodal AI, and real-world deployment** — building systems where a model doesn't just predict but actually helps someone make a decision.
 
-When I'm not in the ML weeds, I published an IEEE paper on transfer learning for lung cancer detection, won a hackathon with a computer vision recovery app, and built a local medical AI platform with MedGemma that runs entirely on-device.
+When I'm not in the ML weeds, I published an IEEE paper on transfer learning for lung cancer detection, won a hackathon with a computer vision recovery app, and built a privacy-first local RAG system that runs entirely on-device.
 
 ---
 
 ## What I'm working on
 
 ```
- MS Applied Machine Learning @ UMD College Park (Sep 2025 – Present)
- MedViz AI — local medical image analysis with MedGemma 27B + MedSAM
+ MS Applied Machine Learning @ UMD College Park  (Sep 2025 – Present)
+ Privacy-first RAG systems · Applied deep learning · LLM pipelines
 ```
 
 ---
@@ -43,7 +43,7 @@ When I'm not in the ML weeds, I published an IEEE paper on transfer learning for
 ![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-FFD21F?style=flat&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-000000?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-pgvector_%2B_Ollama-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MedGemma](https://img.shields.io/badge/MedGemma-27B-4285F4?style=flat&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat)
 
 Prompt engineering · NER & information extraction · Multimodal reasoning · RAG pipelines · Structured LLM outputs
 
@@ -54,7 +54,7 @@ Prompt engineering · NER & information extraction · Multimodal reasoning · RA
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
 
-Computer vision (VGG19, MedSAM, MediaPipe) · Transfer learning · Anomaly detection · Bayesian models · Causal inference
+Computer vision (VGG19, MediaPipe) · Transfer learning · Anomaly detection · Bayesian models · Causal inference
 
 **Backend & Data**
 
@@ -74,14 +74,6 @@ FastAPI · Celery · Redis · PostgreSQL + pgvector · SQLAlchemy · Alembic
 <tr>
 <td width="50%" valign="top">
 
-### MedViz AI Platform
-*FastAPI · MedGemma 27B · MedSAM · Ollama*
-
-Local multimodal medical AI — upload an X-ray, CT, or MRI and get NER-extracted findings, clinical summaries, and pixel-level anatomical segmentation. No cloud, no data leaving your machine. Built a causal inference engine on top of MedGemma to trace abnormal lab findings to root causes.
-
-</td>
-<td width="50%" valign="top">
-
 ### Local RAG System
 *FastAPI · pgvector · Ollama · React*
 
@@ -90,8 +82,6 @@ Privacy-first document Q&A — upload PDFs, embed with `nomic-embed-text`, query
 [→ View repo](https://github.com/SriRammSS/rag-local-app)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 5G QoS Prediction
@@ -102,6 +92,8 @@ End-to-end ML pipeline on real O-RAN drive test data. Ensemble model (XGB + LGB 
 [→ View repo](https://github.com/SriRammSS/5GQoS-Analysis)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### Komrade — Veteran Peer Support
@@ -110,6 +102,16 @@ End-to-end ML pipeline on real O-RAN drive test data. Ensemble model (XGB + LGB 
 Real-time SOS alert platform for veterans — geospatial buddy matching (haversine), dual AI provider (Gemini/Ollama), ElevenLabs STT, and hard-wired crisis interception routing to 988 Lifeline before any AI call is made.
 
 [→ View repo](https://github.com/SriRammSS/komrade)
+
+</td>
+<td width="50%" valign="top">
+
+### Snack Stalker
+*React 19 · Express 5 · PostgreSQL · RTK Query*
+
+Multi-university campus vending machine platform with Leaflet campus maps, QR payment simulation, and sustainability tracking. Full monorepo with admin dashboard, analytics, and real-time inventory management.
+
+[→ View repo](https://github.com/SriRammSS/snack-stalker)
 
 </td>
 </tr>
@@ -155,7 +157,7 @@ Jan–Jun 2023 Graduate Engineer Intern · Mavenir Systems
 
 <div align="center">
 
-*Always up for a conversation about LLMs, medical AI, or why 5G networks are actually fascinating.*
+*Always up for a conversation about LLMs, applied AI, or why 5G networks are actually fascinating.*
 
 [![LinkedIn](https://img.shields.io/badge/Let's_connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-ramm-sekar-sasirekha-1b52aa1a2/)
 
