@@ -144,12 +144,12 @@ Proposed **modality-bridge transfer learning** — training VGG19 on kidney CT s
 ## Background
 
 ```
+2025 Hackathon Winner — Best Startup Idea (CV-based postpartum recovery app)
 2025 – Now MS Applied Machine Learning · University of Maryland, College Park
 2024 – 2025 Member of Technical Staff-I · Mavenir Systems (5G O-RAN, ML on telco data)
 2023 – 2024 Graduate Engineer · Mavenir Systems (5G SA system testing, Dish Wireless)
 Jan–Jun 2023 Graduate Engineer Intern · Mavenir Systems
 2023 IEEE Publication · Cross-Organ Bridge Transfer Learning
-2023 Hackathon Winner — Best Startup Idea (CV-based postpartum recovery app)
 2019 – 2023 B.Tech ECE · Amrita School of Engineering, Coimbatore
 ```
 
